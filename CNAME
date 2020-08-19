@@ -1,1 +1,5 @@
-eversoft.co.kr
+$ dig www.eversoft.co.kr +nostats +nocomments +nocmd
+    > ;www.eversoft.co.kr.                     IN      A
+    > www.eversoft.co.kr.              3592    IN      CNAME   wnchai.github.io.
+    > wnchai.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
