@@ -1,5 +1,1 @@
-$ dig WWW.EVERSOFT.CO.KR +nostats +nocomments +nocmd
-    > ;WWW.EVERSOFT.CO.KR.                     IN      A
-    > WWW.EVERSOFT.CO.KR.              3592    IN      CNAME   WNCHAI.github.io.
-    > WNCHAI.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+$ dig WWW.EVERSOFT.CO.KR
