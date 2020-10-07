@@ -4,6 +4,6 @@ sap.ui.define([
 
  "use strict";
 
- alert("UI5 is ready");
+ colsole.log("UI5 is ready!!!");
 
 });
