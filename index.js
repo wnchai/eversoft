@@ -1,5 +1,5 @@
 sap.ui.define([
 ], function () {
  "use strict";
- console.log("UI5 is ready!!!!!");
+ alert("UI5 is ready!!!!!");
 });
